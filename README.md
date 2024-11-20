@@ -1,9 +1,11 @@
+HOW TO USE 
+
 
 1. Decompile the Game Files
 
 Download and set up QuickBMS.
 Use it to decompile the Back 4 Blood game files.
-Extract Static Meshes and Textures:
+Extract Static Meshes and Textures (GLTF FORMAT AND TGA):
 
 Open the decompiled game files in uModel (UE Viewer).
 Left-click the root folder and select Export to extract all static meshes and textures.
